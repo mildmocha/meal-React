@@ -1,0 +1,15 @@
+.form {  text-align: right; }
+.form button { 
+  background: var(--main-color);
+  border:none;
+  color:white;
+  padding:0.3rem 2rem;
+  border-radius:1.5rem;
+  font-weight:bold;
+  cursor: pointer;
+}
+
+.form button:hover, 
+.form button:active {
+  background: var(--accent-color);
+}
