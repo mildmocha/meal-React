@@ -1,6 +1,6 @@
 import React from 'react'
 import classes from "./Header.module.css";
-import mealsImg from "../../assert/meals2.jpg";
+import mealsImg from "../../assert/meals3.jpg";
 import HeaderCartButton from './HeaderCartButton';
 //public에 놓고 일반 웹페이지에서 이미지 쓰듯이 사용할 수도 있음
 

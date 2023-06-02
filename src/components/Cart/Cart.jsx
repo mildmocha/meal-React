@@ -41,7 +41,7 @@ const Cart = (props) => {
       <div>
         {cartItem}
         <div className={classes.total}>
-          <span>총금액</span>
+          <span>총 금액</span>
           <span>{totalAmount}</span>
         </div>
         <div className={classes.action}>

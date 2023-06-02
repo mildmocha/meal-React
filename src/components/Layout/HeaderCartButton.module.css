@@ -1,5 +1,5 @@
 .button {
-  background:var(--accent-color); 
+  background:#ff0015; 
   border:none;
   color:white;
   padding:0.7rem 3rem;
@@ -20,13 +20,14 @@
 }
 
 .badge {
-  background:#ea4a0b;
+  color:black;
+  background:#fffefd;
   padding: 0.25rem 1rem;
   border-radius: 25px;
   margin-left: 1rem;
 }
 .button:hover .badge, .button:active .badge {
-  background:#a7360a;
+  background:#b9b6b5;
 }
 .bump {
   animation: bump 300ms ease-out;
